@@ -1,0 +1,9 @@
+폴더 생성
+mkdir git-test
+
+생성한 폴더를 경로로
+cd git-test
+
+메모장 생성
+notepad
+
